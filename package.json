@@ -1,0 +1,15 @@
+{
+  "name": "session-timeout",
+  "version": "1.0.0",
+  "description": "Session timeout without server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "session",
+    "timeout"
+  ],
+  "author": "ghandalf",
+  "license": "ISC"
+}
