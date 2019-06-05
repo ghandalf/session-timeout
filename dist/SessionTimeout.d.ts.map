@@ -1,1 +1,1 @@
-{"version":3,"file":"SessionTimeout.d.ts","sourceRoot":"","sources":["../src/main/typescript/SessionTimeout.ts"],"names":[],"mappings":"AAAA,qBAAa,cAAc;IAEhB,iBAAiB,IAAI,MAAM;CAGrC"}
+{"version":3,"file":"SessionTimeout.d.ts","sourceRoot":"","sources":["../src/main/typescript/SessionTimeout.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AAEpC,qBAAa,cAAc;IAEvB,OAAO,CAAC,OAAO,CAAU;gBAEb,OAAO,GAAE,OAAuB;IAIrC,UAAU,IAAI,OAAO;IAIrB,UAAU,CAAC,OAAO,EAAE,OAAO;IAI3B,iBAAiB,IAAI,MAAM;CAGrC"}
