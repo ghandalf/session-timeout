@@ -1,6 +1,6 @@
 {
   "name": "session-timeout",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Session timeout without server side",
   "main": "index.js",
   "keywords": [
